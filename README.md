@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am currently a student at Lambda School, and also a Fullstack Web Developer seeking work.
+I am fluent in Javascript, HTML, CSS, React, Java, node.js, and Python
+I have experience with Apis, Agile development, MySQL, OOP, REST apis, Unit Testing, Data Structures, MVC, SDLC, Continuous Integration, and jQuery
+
 <!--
 **JackHenry15/JackHenry15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
